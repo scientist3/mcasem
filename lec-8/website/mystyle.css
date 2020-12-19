@@ -1,0 +1,92 @@
+/* refer by class name*/
+.container{
+	margin: 20px;
+	font-size: 30px;
+	color: white;
+}
+/* Use when you want to refer by id*/
+.sidebar{
+	width: 200px;
+	float: left;
+	border: 2px solid yellow;
+	/*background-image: linear-gradient(yellow, red, yellow);*/
+	background-image: linear-gradient(to bottom right, green, yellow,red);
+}
+
+.main_content{
+	width:460px;
+	float: right;
+	border: 4px solid green;
+	background-image: linear-gradient(red, yellow);
+}
+.main_content img{
+	padding: 4px;	
+	border: 4px solid yellow;
+	border-radius: 50%	;
+}
+
+ul{
+	list-style-type: square;	
+}
+
+header{
+	padding: 40px 5px;
+	background-image: linear-gradient(to right, #74ff00  , yellow);
+}
+
+
+
+
+
+
+
+
+
+
+
+/*
+body {
+	background: yellow;	
+} 
+*/
+body{
+	margin: 30px;
+	padding: 20px;
+	background-image: url('back.jpg');
+}
+
+p, li {
+	font-size: 25px;
+	/* background-color: #00fff3;*/ 
+	color: white;
+}
+
+#firstline:hover{
+	border:1px solid yellow;
+}
+#secondline:hover{
+	text-shadow: 2px 2px 5px yellow;
+	font-size: 30px;
+	box-shadow: 0px 0px 56px 29px #aadaa3;
+}
+a{
+	font-size: 20px;
+	background-color: #861574;
+	padding: 10px;
+	color: white;
+	font-weight: bold;
+}
+
+a:hover {
+  	background-color: red;
+
+  	font-size: 25px;
+}
+
+footer p{
+	background-color: #537e5366;
+}
+
+footer{
+	margin: 30px;
+}

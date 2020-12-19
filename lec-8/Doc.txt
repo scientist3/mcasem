@@ -1,0 +1,17 @@
+------------------------------------------------
+Last Topic:
+  wesite basic structure
+	- Header Section { Menu } <a href="" >
+	- Main content section {Actual Contnts}
+	- Footer Section { Copyright + Date}
+Todays Topic:
+	1) Other CSS Properties.
+		-- CSS Media Quries -- Important
+			-- Allows us To create responsive web page.
+		a) CSS Float.
+			- Align contents to left or right
+
+		b) Image Gallery.
+		c) Rounded corners
+			border-radius: 50%;
+		d) CSS Gradients.

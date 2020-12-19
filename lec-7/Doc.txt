@@ -1,0 +1,32 @@
+Topic CSS.
+	1) intro of CSS.
+	2) Ways which we can use to write our css
+		-3 Ways (based on scope)
+			- Internal -Header section
+			- Inline ------ color code hex--- within tag
+			- External -- external file <filename.CSS>
+	3) Color Coding.
+		- Hex-format.
+		- 6 digits - xx xx xx
+		-          - R  G  B
+		- x == 0-f =16
+		- 00
+		  ..
+		- ff == 256
+-----------------------------------------------------
+Todays Topic:
+	0) The CSS Box Model.
+	1) External Stylesheet(CSS)
+	2) Few Style Properties
+		a) height
+		b) width
+		c) padding
+		d) margin
+		e) border
+
+Basic Website Structure. + CSS other Properties
+
+wesite basic structure
+	- Header Section { Menu } <a href="" >
+	- Main content section {Actual Contnts}
+	- Footer Section { Copyright + Date}

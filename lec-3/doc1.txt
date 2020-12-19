@@ -1,0 +1,21 @@
+Topic : HTML5
+Subtopic:
+	1) HTML5 Declaration-DOCTYPE declaration.
+	2) HTML5 New Tags
+		-New semantic elements like 
+			<header>, <footer>, <article>, and <section>.
+		-New form controls like 
+			number, date, time, calendar, and range.
+		-New multimedia elements: 
+			<audio> and <video>.
+		-New graphic elements: 
+			<svg> and <canvas>.
+	3) How to setup codeigniter framework.
+	
+Pre Intro-
+	CSS+HMTL
+	CSS- Style+ CodeReuse...
+	article{
+		color: #40e3db;
+		size: 2rem;
+	}

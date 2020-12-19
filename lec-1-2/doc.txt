@@ -1,0 +1,99 @@
+Today We are going to see the 
+Basic Structure of
+HTML Document/Page
+	- Static Pages. Contents Cannot be chagned.
+		
+	- Dynamic Pages- Contents Changes with each request.
+	
+	
+XAMPP
+
+
+
+Website
+	- Page 1
+	- Page 2
+	- ...
+	- Page N
+	
+
+Tags - What to do
+attribute - How to do
+
+	{BASIC TAGS}
+	<font color="red">
+	
+	</font>
+		Here
+		 color- Atrr Name
+		 red -- Attr Value
+		 
+		-- Attributes
+	- Open Tags(UNPARIED) ------ Starting <TagName>
+		-Example
+			- <br>
+	- Closed Tags(PAIRED) ---- Start As Well as End
+		Example
+			- <h1>....</h1>
+			- <html> ... </html>
+			
+	{Forms and Input TAGS}
+		- Makes Interactiveness
+		- user Can Feed data to your website(Collection of web page/docc)
+		
+		Example:
+			Name:
+			
+		Response
+			: Hello <name>
+		Passing data - another attr name: method
+			- Get - just append data to url
+			- POST - security url will not show it
+		
+		
+----------------------- 4 June 2020------------------------------------------------------
+ HTML - Only used to Present Data.
+		- No Ways It Can Process Your Data.
+			- Do Calculations, Manipulatoins,
+			
+ Topic : 1) Forms - Whats
+		 2) Getting That Data.	
+		 3) Image
+				<img src="" />
+			main Attribute - src.....
+		 4) List
+			- Ordered
+				<ol>
+					<li>dfhdkjh</li>
+					<li></li>
+				</ol>
+			- Unordered
+				<ul>
+				</ul>
+		 5) Hyperlink-(AnchorTag)
+			<a href=""> </a>
+		 6) table tag
+		
+----------------------------------------
+Next Topic: HTML5 Tag List
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		

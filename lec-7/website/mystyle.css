@@ -1,0 +1,46 @@
+/*
+body {
+	background: yellow;	
+} 
+*/
+body{
+	margin: 30px;
+	padding: 20px;
+	background-image: url('back.jpg');
+}
+
+p, li {
+	font-size: 25px;
+	/* background-color: #00fff3;*/ 
+	color: white;
+}
+
+#firstline:hover{
+	border:1px solid yellow;
+}
+#secondline:hover{
+	text-shadow: 2px 2px 5px yellow;
+	font-size: 30px;
+	box-shadow: 0px 0px 56px 29px #aadaa3;
+}
+a{
+	font-size: 20px;
+	background-color: #861574;
+	padding: 10px;
+	color: white;
+	font-weight: bold;
+}
+
+a:hover {
+  	background-color: red;
+
+  	font-size: 25px;
+}
+
+footer p{
+	background-color: #537e5366;
+}
+
+footer{
+	margin: 30px;
+}
